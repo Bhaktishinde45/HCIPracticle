@@ -1,0 +1,72 @@
+ practicle 2)Implement GOMS(goals,operators,Methods and selection rules) modeling technique to model user's behavior in given scenario
+
+ChatGPT said:
+Sure! To implement GOMS (Goals, Operators, Methods, and Selection rules) modeling technique, I’ll first explain what GOMS is, then apply it to a specific user behavior scenario.
+
+What is GOMS?
+Goals: What the user wants to achieve.
+
+Operators: Basic actions the user performs (click, type, move mouse, etc.)
+
+Methods: Procedures or sequences of operators to accomplish goals.
+
+Selection Rules: How the user decides which method to use if there are multiple ways.
+
+Scenario Example:
+User wants to register for an online course on an educational website.
+
+Step 1: Define the Goal
+Main Goal: Register for an online course.
+
+Step 2: Identify Operators
+O1: Move mouse cursor
+
+O2: Click mouse button
+
+O3: Type text on keyboard
+
+O4: Scroll page
+
+O5: Press Enter key
+
+Step 3: Define Methods for the goal "Register for an online course"
+Method 1: Register using "Sign Up" button on homepage
+Move mouse to "Sign Up" button (O1)
+
+Click "Sign Up" button (O2)
+
+Type registration info (name, email, password) (O3)
+
+Click "Submit" button (O1 + O2)
+
+Select course from course list (O1 + O2)
+
+Click "Enroll" button (O1 + O2)
+
+Method 2: Register via course page
+Move mouse to "Courses" menu (O1)
+
+Click "Courses" menu (O2)
+
+Scroll to desired course (O4)
+
+Click on course name (O1 + O2)
+
+Click "Register" button (O1 + O2)
+
+Fill registration form (O3)
+
+Click "Submit" (O1 + O2)
+
+Step 4: Selection Rules
+If user wants to browse all courses first, use Method 2.
+
+If user knows the course and wants to quickly sign up, use Method 1.
+
+Summary GOMS Model for User Registering:
+Component	Details
+Goal	Register for an online course
+Operators	O1: Move mouse cursor, O2: Click mouse, O3: Type text, O4: Scroll, O5: Press Enter
+Methods	Method 1: Sign Up from homepage → fill form → select course → enroll
+Method 2: Browse courses → select course → register → fill form → submit
+Selection	If user knows course → Method 1; if wants to browse → Method 2
