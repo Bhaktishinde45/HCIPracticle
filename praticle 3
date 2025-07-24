@@ -1,0 +1,80 @@
+ Example 1: Primary School Website – "Sunnydale Primary School"
+🖥 Website Layout (Home Page):
+Top Bar:
+Logo | Menu: Home | Classes | Teachers | Calendar | Contact
+🔍 Search icon
+
+Main Banner:
+Big picture of happy kids with a “Welcome to Sunnydale!” message
+Buttons: View Timetable, Parent Login
+
+Middle Section:
+
+“News and Notices” (latest updates)
+
+“Meet Our Teachers” (pictures with names)
+
+School Calendar preview
+
+Bottom:
+
+Address, Phone number, Email
+
+Links to Facebook and Instagram
+
+👎 Common Issues Noted by Parents/Users:
+Too hard to find teacher information
+
+Timetable opens in a PDF, which is hard to read on phones
+
+Too much scrolling
+
+No easy way to ask questions
+
+✅ Suggestions for Improvement:
+Problem	Solution
+Can't find teachers	Add a “Teacher Directory” button with pictures and emails
+Hard-to-read timetable	Show timetable in a simple table, not as a PDF
+Too much info	Use “Read More” buttons and shorter homepage
+No contact option	Add a simple form with “Ask Us a Question”
+
+🌟 Example 2: Coding Bootcamp Website – "CodeSpark Academy"
+🖥 Website Layout (Home Page):
+Top Bar:
+Logo | Menu: Courses | How It Works | Success Stories | Login | Sign Up
+
+Main Banner:
+Text: “Learn Coding in Just 12 Weeks!”
+Buttons: See Courses, Start Free Trial
+
+Middle Section:
+
+Short video about the program
+
+Student reviews (star ratings)
+
+Course categories (Web, Python, Data Science)
+
+Bottom:
+
+Chat support icon
+
+FAQ links
+
+Social media and contact info
+
+👎 Common Issues Noted by Students:
+Too many courses shown at once
+
+No clear path for beginners
+
+Website was slow on mobile
+
+Video starts automatically and uses data
+
+✅ Suggestions for Improvement:
+Problem	Solution
+Too many courses	Add filter: Beginner / Intermediate / Advanced
+No path for beginners	Add “New to Coding?” section with a suggested course path
+Mobile speed issue	Reduce image sizes and turn off autoplay videos
+Autoplay videos	Add a play button instead of auto-start
